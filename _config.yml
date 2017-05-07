@@ -8,10 +8,11 @@ menu:
 # Customize
 customize:
     logo:
-        width: 165
-        height: 60
-        url: images/logo-header.png
+        width: 200
+        height: 96
+        url: images/JT-Logo.png
     theme_color: '#006bde'
+    header_background: 'images/jtbg1.jpg'
     highlight: androidstudio
     sidebar: left # sidebar position, options: left, right
     thumbnail: true # enable posts thumbnail, options: true, false

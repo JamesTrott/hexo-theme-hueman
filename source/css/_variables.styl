@@ -37,6 +37,10 @@ line-height-title = 1.3em
 logo-url = hexo-config("customize.logo.url")
 logo-width = 0px + hexo-config("customize.logo.width")
 logo-height = 0px + hexo-config("customize.logo.height")
+if hexo-config("customize.header_background")
+    header-background-image = convert(hexo-config("header_background"))
+else
+    header-background-image = ""
 
 // Sidebar
 sidebar = hexo-config("customize.sidebar")
