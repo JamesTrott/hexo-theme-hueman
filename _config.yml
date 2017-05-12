@@ -11,8 +11,8 @@ customize:
         width: 200
         height: 96
         url: images/JT-Logo.png
-    theme_color: '#006bde'
-    header_background: 'images/jtbg1.jpg'
+    theme_color: '#86c900'
+    header_background: 'images/jtbg2.jpg'
     highlight: androidstudio
     sidebar: left # sidebar position, options: left, right
     thumbnail: true # enable posts thumbnail, options: true, false
@@ -20,8 +20,9 @@ customize:
     social_links: # for more icons, please see http://fontawesome.io/icons/#brand
         twitter: https://twitter.com/jamestrott
         instagram: https://www.instagram.com/jatrott/
-        github: https://github.com/ppoffice/hexo-theme-hueman
-        rss: /
+        linkedin: https://www.linkedin.com/in/james-trott-4574aa2a/
+        #github: https://github.com/ppoffice/hexo-theme-hueman
+        #rss: /
 
 # Widgets
 widgets:
@@ -40,7 +41,7 @@ search:
 
 # Comment
 comment:
-    disqus: JamesTrott # enter disqus shortname here
+    disqus: jamestrott-io # enter disqus shortname here
     duoshuo: # enter duoshuo shortname here
     youyan: # enter youyan uid here
     facebook: # enter true to enable
